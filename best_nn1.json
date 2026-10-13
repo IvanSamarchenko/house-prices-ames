@@ -1,0 +1,15 @@
+{
+  "units1": 270,
+  "activation": "elu",
+  "dropout": 0.4777925225689989,
+  "l2": 0.0006910199743916213,
+  "batchnorm": false,
+  "lr": 0.0018644199199799416,
+  "optimizer": "adam",
+  "batch_size": 64,
+  "patience": 10,
+  "data_mode": "full",
+  "scaler": "standard",
+  "use_log": true,
+  "min_freq": 0.005
+}

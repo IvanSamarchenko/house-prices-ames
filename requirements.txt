@@ -1,0 +1,10 @@
+catboost
+fg_data_profiling
+matplotlib
+numpy
+optuna
+pandas
+scikit_learn
+seaborn
+tensorflow
+tqdm

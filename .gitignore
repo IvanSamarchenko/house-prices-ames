@@ -1,0 +1,7 @@
+*.db
+catboost_info/
+.ipynb_checkpoints/
+__pycache__/
+datasets/*.csv
+answer.csv
+.DS_Store

@@ -1,0 +1,10 @@
+{
+  "kernel": "rbf",
+  "C": 1.0361939594326108,
+  "epsilon": 0.01859199813952592,
+  "gamma": 0.0026957947745526564,
+  "data_mode": "full",
+  "scaler": "standard",
+  "use_log": true,
+  "min_freq": 0.01
+}

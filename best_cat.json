@@ -1,0 +1,12 @@
+{
+  "bootstrap_type": "Bayesian",
+  "iterations": 2500,
+  "learning_rate": 0.020072416304909097,
+  "depth": 5,
+  "l2_leaf_reg": 1.122012719906457,
+  "random_strength": 0.4979656116217561,
+  "border_count": 64,
+  "one_hot_max_size": 4,
+  "rsm": 0.5896108158198244,
+  "bagging_temperature": 0.2508043026476565
+}
